@@ -15,7 +15,7 @@ protocol MovieManagerDelegate {
 
 struct MovieManager {
     
-    let weatherurl = "https://www.omdbapi.com/?apikey=b251075f"
+    let weatherurl = ""
     
     var delegate: MovieManagerDelegate?
     
