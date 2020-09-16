@@ -1,3 +1,2 @@
-# MovieChecker
-
-<img src=“https://raw.githubusercontent.com/jaimehernan95/arrayReview-java/master/images/%20arrayExample.png”>
+![App Brewery Banner](MovieChecker/1.png)
+![App Brewery Banner](MovieChecker/2png)
