@@ -1,2 +1,2 @@
-![App Brewery Banner](MovieChecker/1.png)
-![App Brewery Banner](MovieChecker/2png)
+![App Brewery Banner](MovieChecker/3.png)
+![App Brewery Banner](MovieChecker/4.png)
