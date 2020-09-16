@@ -1,3 +1,3 @@
 # MovieChecker
 
-<img src=“https://camo.githubusercontent.com/3293cfb8382c0e13478ebeb1a432a59cb7186370/68747470733a2f2f7261772e6769746875622e636f6d2f4b7269734b617370727a616b2f494c49393334315f74335f636f6e74726f6c732f6d61737465722f4469616c2e6a7067”>
+<img src=“https://github.com/jaimehernan95/arrayReview-java/blob/master/images/%20arrayExample.png”>
