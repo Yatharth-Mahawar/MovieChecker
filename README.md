@@ -1,4 +1,4 @@
-Created an MovieChecker App to have quick look on movie before watching using Imdb API
+Created an MovieChecker App using Imdb API to have quick look on movie before watching.
 
 
 ![App Brewery Banner](MovieChecker/3.png)
